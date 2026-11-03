@@ -1,0 +1,10 @@
+# Local secrets (Gemini API key)
+config.js
+src/config.js
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
